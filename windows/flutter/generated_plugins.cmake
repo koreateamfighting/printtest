@@ -3,6 +3,9 @@
 #
 
 list(APPEND FLUTTER_PLUGIN_LIST
+  charset_converter
+  permission_handler_windows
+  print_bluetooth_thermal
   printing
 )
 
